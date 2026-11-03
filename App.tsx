@@ -11,6 +11,7 @@ import {
   SafeAreaProvider,
   useSafeAreaInsets,
 } from 'react-native-safe-area-context';
+import { Catalog } from './src/Catalog';
 
 function App() {
   const isDarkMode = useColorScheme() === 'dark';
@@ -32,6 +33,7 @@ function AppContent() {
         templateFileName="App.tsx"
         safeAreaInsets={safeAreaInsets}
       />
+      <Catalog />
     </View>
   );
 }
