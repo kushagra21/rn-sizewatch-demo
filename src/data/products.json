@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "name": "Shoe 1",
+    "category": "Shoes",
+    "price": 10,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 2,
+    "name": "Bag 2",
+    "category": "Bags",
+    "price": 47,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 3,
+    "name": "Hat 3",
+    "category": "Hats",
+    "price": 84,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 4,
+    "name": "Shirt 4",
+    "category": "Shirts",
+    "price": 121,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 5,
+    "name": "Watche 5",
+    "category": "Watches",
+    "price": 158,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 6,
+    "name": "Jacket 6",
+    "category": "Jackets",
+    "price": 195,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 7,
+    "name": "Shoe 7",
+    "category": "Shoes",
+    "price": 42,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 8,
+    "name": "Bag 8",
+    "category": "Bags",
+    "price": 79,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 9,
+    "name": "Hat 9",
+    "category": "Hats",
+    "price": 116,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 10,
+    "name": "Shirt 10",
+    "category": "Shirts",
+    "price": 153,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 11,
+    "name": "Watche 11",
+    "category": "Watches",
+    "price": 190,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 12,
+    "name": "Jacket 12",
+    "category": "Jackets",
+    "price": 37,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 13,
+    "name": "Shoe 13",
+    "category": "Shoes",
+    "price": 74,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 14,
+    "name": "Bag 14",
+    "category": "Bags",
+    "price": 111,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 15,
+    "name": "Hat 15",
+    "category": "Hats",
+    "price": 148,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 16,
+    "name": "Shirt 16",
+    "category": "Shirts",
+    "price": 185,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 17,
+    "name": "Watche 17",
+    "category": "Watches",
+    "price": 32,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 18,
+    "name": "Jacket 18",
+    "category": "Jackets",
+    "price": 69,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 19,
+    "name": "Shoe 19",
+    "category": "Shoes",
+    "price": 106,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 20,
+    "name": "Bag 20",
+    "category": "Bags",
+    "price": 143,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 21,
+    "name": "Hat 21",
+    "category": "Hats",
+    "price": 180,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 22,
+    "name": "Shirt 22",
+    "category": "Shirts",
+    "price": 27,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 23,
+    "name": "Watche 23",
+    "category": "Watches",
+    "price": 64,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 24,
+    "name": "Jacket 24",
+    "category": "Jackets",
+    "price": 101,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 25,
+    "name": "Shoe 25",
+    "category": "Shoes",
+    "price": 138,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 26,
+    "name": "Bag 26",
+    "category": "Bags",
+    "price": 175,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 27,
+    "name": "Hat 27",
+    "category": "Hats",
+    "price": 22,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 28,
+    "name": "Shirt 28",
+    "category": "Shirts",
+    "price": 59,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 29,
+    "name": "Watche 29",
+    "category": "Watches",
+    "price": 96,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 30,
+    "name": "Jacket 30",
+    "category": "Jackets",
+    "price": 133,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 31,
+    "name": "Shoe 31",
+    "category": "Shoes",
+    "price": 170,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 32,
+    "name": "Bag 32",
+    "category": "Bags",
+    "price": 17,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 33,
+    "name": "Hat 33",
+    "category": "Hats",
+    "price": 54,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 34,
+    "name": "Shirt 34",
+    "category": "Shirts",
+    "price": 91,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 35,
+    "name": "Watche 35",
+    "category": "Watches",
+    "price": 128,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 36,
+    "name": "Jacket 36",
+    "category": "Jackets",
+    "price": 165,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 37,
+    "name": "Shoe 37",
+    "category": "Shoes",
+    "price": 12,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 38,
+    "name": "Bag 38",
+    "category": "Bags",
+    "price": 49,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 39,
+    "name": "Hat 39",
+    "category": "Hats",
+    "price": 86,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 40,
+    "name": "Shirt 40",
+    "category": "Shirts",
+    "price": 123,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 41,
+    "name": "Watche 41",
+    "category": "Watches",
+    "price": 160,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 42,
+    "name": "Jacket 42",
+    "category": "Jackets",
+    "price": 197,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 43,
+    "name": "Shoe 43",
+    "category": "Shoes",
+    "price": 44,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 44,
+    "name": "Bag 44",
+    "category": "Bags",
+    "price": 81,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 45,
+    "name": "Hat 45",
+    "category": "Hats",
+    "price": 118,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 46,
+    "name": "Shirt 46",
+    "category": "Shirts",
+    "price": 155,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 47,
+    "name": "Watche 47",
+    "category": "Watches",
+    "price": 192,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 48,
+    "name": "Jacket 48",
+    "category": "Jackets",
+    "price": 39,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 49,
+    "name": "Shoe 49",
+    "category": "Shoes",
+    "price": 76,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 50,
+    "name": "Bag 50",
+    "category": "Bags",
+    "price": 113,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 51,
+    "name": "Hat 51",
+    "category": "Hats",
+    "price": 150,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 52,
+    "name": "Shirt 52",
+    "category": "Shirts",
+    "price": 187,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 53,
+    "name": "Watche 53",
+    "category": "Watches",
+    "price": 34,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 54,
+    "name": "Jacket 54",
+    "category": "Jackets",
+    "price": 71,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 55,
+    "name": "Shoe 55",
+    "category": "Shoes",
+    "price": 108,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 56,
+    "name": "Bag 56",
+    "category": "Bags",
+    "price": 145,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 57,
+    "name": "Hat 57",
+    "category": "Hats",
+    "price": 182,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 58,
+    "name": "Shirt 58",
+    "category": "Shirts",
+    "price": 29,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 59,
+    "name": "Watche 59",
+    "category": "Watches",
+    "price": 66,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 60,
+    "name": "Jacket 60",
+    "category": "Jackets",
+    "price": 103,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 61,
+    "name": "Shoe 61",
+    "category": "Shoes",
+    "price": 140,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 62,
+    "name": "Bag 62",
+    "category": "Bags",
+    "price": 177,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 63,
+    "name": "Hat 63",
+    "category": "Hats",
+    "price": 24,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 64,
+    "name": "Shirt 64",
+    "category": "Shirts",
+    "price": 61,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 65,
+    "name": "Watche 65",
+    "category": "Watches",
+    "price": 98,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 66,
+    "name": "Jacket 66",
+    "category": "Jackets",
+    "price": 135,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 67,
+    "name": "Shoe 67",
+    "category": "Shoes",
+    "price": 172,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 68,
+    "name": "Bag 68",
+    "category": "Bags",
+    "price": 19,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 69,
+    "name": "Hat 69",
+    "category": "Hats",
+    "price": 56,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 70,
+    "name": "Shirt 70",
+    "category": "Shirts",
+    "price": 93,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 71,
+    "name": "Watche 71",
+    "category": "Watches",
+    "price": 130,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 72,
+    "name": "Jacket 72",
+    "category": "Jackets",
+    "price": 167,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 73,
+    "name": "Shoe 73",
+    "category": "Shoes",
+    "price": 14,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 74,
+    "name": "Bag 74",
+    "category": "Bags",
+    "price": 51,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 75,
+    "name": "Hat 75",
+    "category": "Hats",
+    "price": 88,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 76,
+    "name": "Shirt 76",
+    "category": "Shirts",
+    "price": 125,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 77,
+    "name": "Watche 77",
+    "category": "Watches",
+    "price": 162,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 78,
+    "name": "Jacket 78",
+    "category": "Jackets",
+    "price": 199,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 79,
+    "name": "Shoe 79",
+    "category": "Shoes",
+    "price": 46,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 80,
+    "name": "Bag 80",
+    "category": "Bags",
+    "price": 83,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 81,
+    "name": "Hat 81",
+    "category": "Hats",
+    "price": 120,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 82,
+    "name": "Shirt 82",
+    "category": "Shirts",
+    "price": 157,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 83,
+    "name": "Watche 83",
+    "category": "Watches",
+    "price": 194,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 84,
+    "name": "Jacket 84",
+    "category": "Jackets",
+    "price": 41,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 85,
+    "name": "Shoe 85",
+    "category": "Shoes",
+    "price": 78,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 86,
+    "name": "Bag 86",
+    "category": "Bags",
+    "price": 115,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 87,
+    "name": "Hat 87",
+    "category": "Hats",
+    "price": 152,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 88,
+    "name": "Shirt 88",
+    "category": "Shirts",
+    "price": 189,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 89,
+    "name": "Watche 89",
+    "category": "Watches",
+    "price": 36,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 90,
+    "name": "Jacket 90",
+    "category": "Jackets",
+    "price": 73,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 91,
+    "name": "Shoe 91",
+    "category": "Shoes",
+    "price": 110,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 92,
+    "name": "Bag 92",
+    "category": "Bags",
+    "price": 147,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 93,
+    "name": "Hat 93",
+    "category": "Hats",
+    "price": 184,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 94,
+    "name": "Shirt 94",
+    "category": "Shirts",
+    "price": 31,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 95,
+    "name": "Watche 95",
+    "category": "Watches",
+    "price": 68,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 96,
+    "name": "Jacket 96",
+    "category": "Jackets",
+    "price": 105,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 97,
+    "name": "Shoe 97",
+    "category": "Shoes",
+    "price": 142,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 98,
+    "name": "Bag 98",
+    "category": "Bags",
+    "price": 179,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 99,
+    "name": "Hat 99",
+    "category": "Hats",
+    "price": 26,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 100,
+    "name": "Shirt 100",
+    "category": "Shirts",
+    "price": 63,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 101,
+    "name": "Watche 101",
+    "category": "Watches",
+    "price": 100,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 102,
+    "name": "Jacket 102",
+    "category": "Jackets",
+    "price": 137,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 103,
+    "name": "Shoe 103",
+    "category": "Shoes",
+    "price": 174,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 104,
+    "name": "Bag 104",
+    "category": "Bags",
+    "price": 21,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 105,
+    "name": "Hat 105",
+    "category": "Hats",
+    "price": 58,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 106,
+    "name": "Shirt 106",
+    "category": "Shirts",
+    "price": 95,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 107,
+    "name": "Watche 107",
+    "category": "Watches",
+    "price": 132,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 108,
+    "name": "Jacket 108",
+    "category": "Jackets",
+    "price": 169,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 109,
+    "name": "Shoe 109",
+    "category": "Shoes",
+    "price": 16,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 110,
+    "name": "Bag 110",
+    "category": "Bags",
+    "price": 53,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 111,
+    "name": "Hat 111",
+    "category": "Hats",
+    "price": 90,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 112,
+    "name": "Shirt 112",
+    "category": "Shirts",
+    "price": 127,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 113,
+    "name": "Watche 113",
+    "category": "Watches",
+    "price": 164,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 114,
+    "name": "Jacket 114",
+    "category": "Jackets",
+    "price": 11,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 115,
+    "name": "Shoe 115",
+    "category": "Shoes",
+    "price": 48,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 116,
+    "name": "Bag 116",
+    "category": "Bags",
+    "price": 85,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 117,
+    "name": "Hat 117",
+    "category": "Hats",
+    "price": 122,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 118,
+    "name": "Shirt 118",
+    "category": "Shirts",
+    "price": 159,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 119,
+    "name": "Watche 119",
+    "category": "Watches",
+    "price": 196,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 120,
+    "name": "Jacket 120",
+    "category": "Jackets",
+    "price": 43,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 121,
+    "name": "Shoe 121",
+    "category": "Shoes",
+    "price": 80,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 122,
+    "name": "Bag 122",
+    "category": "Bags",
+    "price": 117,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 123,
+    "name": "Hat 123",
+    "category": "Hats",
+    "price": 154,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 124,
+    "name": "Shirt 124",
+    "category": "Shirts",
+    "price": 191,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 125,
+    "name": "Watche 125",
+    "category": "Watches",
+    "price": 38,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 126,
+    "name": "Jacket 126",
+    "category": "Jackets",
+    "price": 75,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 127,
+    "name": "Shoe 127",
+    "category": "Shoes",
+    "price": 112,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 128,
+    "name": "Bag 128",
+    "category": "Bags",
+    "price": 149,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 129,
+    "name": "Hat 129",
+    "category": "Hats",
+    "price": 186,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 130,
+    "name": "Shirt 130",
+    "category": "Shirts",
+    "price": 33,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 131,
+    "name": "Watche 131",
+    "category": "Watches",
+    "price": 70,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 132,
+    "name": "Jacket 132",
+    "category": "Jackets",
+    "price": 107,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 133,
+    "name": "Shoe 133",
+    "category": "Shoes",
+    "price": 144,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 134,
+    "name": "Bag 134",
+    "category": "Bags",
+    "price": 181,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 135,
+    "name": "Hat 135",
+    "category": "Hats",
+    "price": 28,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 136,
+    "name": "Shirt 136",
+    "category": "Shirts",
+    "price": 65,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 137,
+    "name": "Watche 137",
+    "category": "Watches",
+    "price": 102,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 138,
+    "name": "Jacket 138",
+    "category": "Jackets",
+    "price": 139,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 139,
+    "name": "Shoe 139",
+    "category": "Shoes",
+    "price": 176,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 140,
+    "name": "Bag 140",
+    "category": "Bags",
+    "price": 23,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 141,
+    "name": "Hat 141",
+    "category": "Hats",
+    "price": 60,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 142,
+    "name": "Shirt 142",
+    "category": "Shirts",
+    "price": 97,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 143,
+    "name": "Watche 143",
+    "category": "Watches",
+    "price": 134,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 144,
+    "name": "Jacket 144",
+    "category": "Jackets",
+    "price": 171,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 145,
+    "name": "Shoe 145",
+    "category": "Shoes",
+    "price": 18,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 146,
+    "name": "Bag 146",
+    "category": "Bags",
+    "price": 55,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 147,
+    "name": "Hat 147",
+    "category": "Hats",
+    "price": 92,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 148,
+    "name": "Shirt 148",
+    "category": "Shirts",
+    "price": 129,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 149,
+    "name": "Watche 149",
+    "category": "Watches",
+    "price": 166,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 150,
+    "name": "Jacket 150",
+    "category": "Jackets",
+    "price": 13,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 151,
+    "name": "Shoe 151",
+    "category": "Shoes",
+    "price": 50,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 152,
+    "name": "Bag 152",
+    "category": "Bags",
+    "price": 87,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 153,
+    "name": "Hat 153",
+    "category": "Hats",
+    "price": 124,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 154,
+    "name": "Shirt 154",
+    "category": "Shirts",
+    "price": 161,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 155,
+    "name": "Watche 155",
+    "category": "Watches",
+    "price": 198,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 156,
+    "name": "Jacket 156",
+    "category": "Jackets",
+    "price": 45,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 157,
+    "name": "Shoe 157",
+    "category": "Shoes",
+    "price": 82,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 158,
+    "name": "Bag 158",
+    "category": "Bags",
+    "price": 119,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 159,
+    "name": "Hat 159",
+    "category": "Hats",
+    "price": 156,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 160,
+    "name": "Shirt 160",
+    "category": "Shirts",
+    "price": 193,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 161,
+    "name": "Watche 161",
+    "category": "Watches",
+    "price": 40,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 162,
+    "name": "Jacket 162",
+    "category": "Jackets",
+    "price": 77,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 163,
+    "name": "Shoe 163",
+    "category": "Shoes",
+    "price": 114,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 164,
+    "name": "Bag 164",
+    "category": "Bags",
+    "price": 151,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 165,
+    "name": "Hat 165",
+    "category": "Hats",
+    "price": 188,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 166,
+    "name": "Shirt 166",
+    "category": "Shirts",
+    "price": 35,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 167,
+    "name": "Watche 167",
+    "category": "Watches",
+    "price": 72,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 168,
+    "name": "Jacket 168",
+    "category": "Jackets",
+    "price": 109,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 169,
+    "name": "Shoe 169",
+    "category": "Shoes",
+    "price": 146,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 170,
+    "name": "Bag 170",
+    "category": "Bags",
+    "price": 183,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 171,
+    "name": "Hat 171",
+    "category": "Hats",
+    "price": 30,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 172,
+    "name": "Shirt 172",
+    "category": "Shirts",
+    "price": 67,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 173,
+    "name": "Watche 173",
+    "category": "Watches",
+    "price": 104,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 174,
+    "name": "Jacket 174",
+    "category": "Jackets",
+    "price": 141,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 175,
+    "name": "Shoe 175",
+    "category": "Shoes",
+    "price": 178,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 176,
+    "name": "Bag 176",
+    "category": "Bags",
+    "price": 25,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 177,
+    "name": "Hat 177",
+    "category": "Hats",
+    "price": 62,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 178,
+    "name": "Shirt 178",
+    "category": "Shirts",
+    "price": 99,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 179,
+    "name": "Watche 179",
+    "category": "Watches",
+    "price": 136,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 180,
+    "name": "Jacket 180",
+    "category": "Jackets",
+    "price": 173,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 181,
+    "name": "Shoe 181",
+    "category": "Shoes",
+    "price": 20,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 182,
+    "name": "Bag 182",
+    "category": "Bags",
+    "price": 57,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 183,
+    "name": "Hat 183",
+    "category": "Hats",
+    "price": 94,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 184,
+    "name": "Shirt 184",
+    "category": "Shirts",
+    "price": 131,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 185,
+    "name": "Watche 185",
+    "category": "Watches",
+    "price": 168,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 186,
+    "name": "Jacket 186",
+    "category": "Jackets",
+    "price": 15,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 187,
+    "name": "Shoe 187",
+    "category": "Shoes",
+    "price": 52,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 188,
+    "name": "Bag 188",
+    "category": "Bags",
+    "price": 89,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 189,
+    "name": "Hat 189",
+    "category": "Hats",
+    "price": 126,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 190,
+    "name": "Shirt 190",
+    "category": "Shirts",
+    "price": 163,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 191,
+    "name": "Watche 191",
+    "category": "Watches",
+    "price": 10,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 192,
+    "name": "Jacket 192",
+    "category": "Jackets",
+    "price": 47,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 193,
+    "name": "Shoe 193",
+    "category": "Shoes",
+    "price": 84,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 194,
+    "name": "Bag 194",
+    "category": "Bags",
+    "price": 121,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 195,
+    "name": "Hat 195",
+    "category": "Hats",
+    "price": 158,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 196,
+    "name": "Shirt 196",
+    "category": "Shirts",
+    "price": 195,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 197,
+    "name": "Watche 197",
+    "category": "Watches",
+    "price": 42,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 198,
+    "name": "Jacket 198",
+    "category": "Jackets",
+    "price": 79,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 199,
+    "name": "Shoe 199",
+    "category": "Shoes",
+    "price": 116,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 200,
+    "name": "Bag 200",
+    "category": "Bags",
+    "price": 153,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 201,
+    "name": "Hat 201",
+    "category": "Hats",
+    "price": 190,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 202,
+    "name": "Shirt 202",
+    "category": "Shirts",
+    "price": 37,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 203,
+    "name": "Watche 203",
+    "category": "Watches",
+    "price": 74,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 204,
+    "name": "Jacket 204",
+    "category": "Jackets",
+    "price": 111,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 205,
+    "name": "Shoe 205",
+    "category": "Shoes",
+    "price": 148,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 206,
+    "name": "Bag 206",
+    "category": "Bags",
+    "price": 185,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 207,
+    "name": "Hat 207",
+    "category": "Hats",
+    "price": 32,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 208,
+    "name": "Shirt 208",
+    "category": "Shirts",
+    "price": 69,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 209,
+    "name": "Watche 209",
+    "category": "Watches",
+    "price": 106,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 210,
+    "name": "Jacket 210",
+    "category": "Jackets",
+    "price": 143,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 211,
+    "name": "Shoe 211",
+    "category": "Shoes",
+    "price": 180,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 212,
+    "name": "Bag 212",
+    "category": "Bags",
+    "price": 27,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 213,
+    "name": "Hat 213",
+    "category": "Hats",
+    "price": 64,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 214,
+    "name": "Shirt 214",
+    "category": "Shirts",
+    "price": 101,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 215,
+    "name": "Watche 215",
+    "category": "Watches",
+    "price": 138,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 216,
+    "name": "Jacket 216",
+    "category": "Jackets",
+    "price": 175,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 217,
+    "name": "Shoe 217",
+    "category": "Shoes",
+    "price": 22,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 218,
+    "name": "Bag 218",
+    "category": "Bags",
+    "price": 59,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 219,
+    "name": "Hat 219",
+    "category": "Hats",
+    "price": 96,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 220,
+    "name": "Shirt 220",
+    "category": "Shirts",
+    "price": 133,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 221,
+    "name": "Watche 221",
+    "category": "Watches",
+    "price": 170,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 222,
+    "name": "Jacket 222",
+    "category": "Jackets",
+    "price": 17,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 223,
+    "name": "Shoe 223",
+    "category": "Shoes",
+    "price": 54,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 224,
+    "name": "Bag 224",
+    "category": "Bags",
+    "price": 91,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 225,
+    "name": "Hat 225",
+    "category": "Hats",
+    "price": 128,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 226,
+    "name": "Shirt 226",
+    "category": "Shirts",
+    "price": 165,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 227,
+    "name": "Watche 227",
+    "category": "Watches",
+    "price": 12,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 228,
+    "name": "Jacket 228",
+    "category": "Jackets",
+    "price": 49,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 229,
+    "name": "Shoe 229",
+    "category": "Shoes",
+    "price": 86,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 230,
+    "name": "Bag 230",
+    "category": "Bags",
+    "price": 123,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 231,
+    "name": "Hat 231",
+    "category": "Hats",
+    "price": 160,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 232,
+    "name": "Shirt 232",
+    "category": "Shirts",
+    "price": 197,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 233,
+    "name": "Watche 233",
+    "category": "Watches",
+    "price": 44,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 234,
+    "name": "Jacket 234",
+    "category": "Jackets",
+    "price": 81,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 235,
+    "name": "Shoe 235",
+    "category": "Shoes",
+    "price": 118,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 236,
+    "name": "Bag 236",
+    "category": "Bags",
+    "price": 155,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 237,
+    "name": "Hat 237",
+    "category": "Hats",
+    "price": 192,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 238,
+    "name": "Shirt 238",
+    "category": "Shirts",
+    "price": 39,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 239,
+    "name": "Watche 239",
+    "category": "Watches",
+    "price": 76,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 240,
+    "name": "Jacket 240",
+    "category": "Jackets",
+    "price": 113,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 241,
+    "name": "Shoe 241",
+    "category": "Shoes",
+    "price": 150,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 242,
+    "name": "Bag 242",
+    "category": "Bags",
+    "price": 187,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 243,
+    "name": "Hat 243",
+    "category": "Hats",
+    "price": 34,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 244,
+    "name": "Shirt 244",
+    "category": "Shirts",
+    "price": 71,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 245,
+    "name": "Watche 245",
+    "category": "Watches",
+    "price": 108,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 246,
+    "name": "Jacket 246",
+    "category": "Jackets",
+    "price": 145,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 247,
+    "name": "Shoe 247",
+    "category": "Shoes",
+    "price": 182,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 248,
+    "name": "Bag 248",
+    "category": "Bags",
+    "price": 29,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 249,
+    "name": "Hat 249",
+    "category": "Hats",
+    "price": 66,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 250,
+    "name": "Shirt 250",
+    "category": "Shirts",
+    "price": 103,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 251,
+    "name": "Watche 251",
+    "category": "Watches",
+    "price": 140,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 252,
+    "name": "Jacket 252",
+    "category": "Jackets",
+    "price": 177,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 253,
+    "name": "Shoe 253",
+    "category": "Shoes",
+    "price": 24,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 254,
+    "name": "Bag 254",
+    "category": "Bags",
+    "price": 61,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 255,
+    "name": "Hat 255",
+    "category": "Hats",
+    "price": 98,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 256,
+    "name": "Shirt 256",
+    "category": "Shirts",
+    "price": 135,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 257,
+    "name": "Watche 257",
+    "category": "Watches",
+    "price": 172,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 258,
+    "name": "Jacket 258",
+    "category": "Jackets",
+    "price": 19,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 259,
+    "name": "Shoe 259",
+    "category": "Shoes",
+    "price": 56,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 260,
+    "name": "Bag 260",
+    "category": "Bags",
+    "price": 93,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 261,
+    "name": "Hat 261",
+    "category": "Hats",
+    "price": 130,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 262,
+    "name": "Shirt 262",
+    "category": "Shirts",
+    "price": 167,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 263,
+    "name": "Watche 263",
+    "category": "Watches",
+    "price": 14,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 264,
+    "name": "Jacket 264",
+    "category": "Jackets",
+    "price": 51,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 265,
+    "name": "Shoe 265",
+    "category": "Shoes",
+    "price": 88,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 266,
+    "name": "Bag 266",
+    "category": "Bags",
+    "price": 125,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 267,
+    "name": "Hat 267",
+    "category": "Hats",
+    "price": 162,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 268,
+    "name": "Shirt 268",
+    "category": "Shirts",
+    "price": 199,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 269,
+    "name": "Watche 269",
+    "category": "Watches",
+    "price": 46,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 270,
+    "name": "Jacket 270",
+    "category": "Jackets",
+    "price": 83,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 271,
+    "name": "Shoe 271",
+    "category": "Shoes",
+    "price": 120,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 272,
+    "name": "Bag 272",
+    "category": "Bags",
+    "price": 157,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 273,
+    "name": "Hat 273",
+    "category": "Hats",
+    "price": 194,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 274,
+    "name": "Shirt 274",
+    "category": "Shirts",
+    "price": 41,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 275,
+    "name": "Watche 275",
+    "category": "Watches",
+    "price": 78,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 276,
+    "name": "Jacket 276",
+    "category": "Jackets",
+    "price": 115,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 277,
+    "name": "Shoe 277",
+    "category": "Shoes",
+    "price": 152,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 278,
+    "name": "Bag 278",
+    "category": "Bags",
+    "price": 189,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 279,
+    "name": "Hat 279",
+    "category": "Hats",
+    "price": 36,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 280,
+    "name": "Shirt 280",
+    "category": "Shirts",
+    "price": 73,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 281,
+    "name": "Watche 281",
+    "category": "Watches",
+    "price": 110,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 282,
+    "name": "Jacket 282",
+    "category": "Jackets",
+    "price": 147,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 283,
+    "name": "Shoe 283",
+    "category": "Shoes",
+    "price": 184,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 284,
+    "name": "Bag 284",
+    "category": "Bags",
+    "price": 31,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 285,
+    "name": "Hat 285",
+    "category": "Hats",
+    "price": 68,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 286,
+    "name": "Shirt 286",
+    "category": "Shirts",
+    "price": 105,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 287,
+    "name": "Watche 287",
+    "category": "Watches",
+    "price": 142,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 288,
+    "name": "Jacket 288",
+    "category": "Jackets",
+    "price": 179,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 289,
+    "name": "Shoe 289",
+    "category": "Shoes",
+    "price": 26,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 290,
+    "name": "Bag 290",
+    "category": "Bags",
+    "price": 63,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 291,
+    "name": "Hat 291",
+    "category": "Hats",
+    "price": 100,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 292,
+    "name": "Shirt 292",
+    "category": "Shirts",
+    "price": 137,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 293,
+    "name": "Watche 293",
+    "category": "Watches",
+    "price": 174,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 294,
+    "name": "Jacket 294",
+    "category": "Jackets",
+    "price": 21,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 295,
+    "name": "Shoe 295",
+    "category": "Shoes",
+    "price": 58,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 296,
+    "name": "Bag 296",
+    "category": "Bags",
+    "price": 95,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 297,
+    "name": "Hat 297",
+    "category": "Hats",
+    "price": 132,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 298,
+    "name": "Shirt 298",
+    "category": "Shirts",
+    "price": 169,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 299,
+    "name": "Watche 299",
+    "category": "Watches",
+    "price": 16,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 300,
+    "name": "Jacket 300",
+    "category": "Jackets",
+    "price": 53,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 301,
+    "name": "Shoe 301",
+    "category": "Shoes",
+    "price": 90,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 302,
+    "name": "Bag 302",
+    "category": "Bags",
+    "price": 127,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 303,
+    "name": "Hat 303",
+    "category": "Hats",
+    "price": 164,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 304,
+    "name": "Shirt 304",
+    "category": "Shirts",
+    "price": 11,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 305,
+    "name": "Watche 305",
+    "category": "Watches",
+    "price": 48,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 306,
+    "name": "Jacket 306",
+    "category": "Jackets",
+    "price": 85,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 307,
+    "name": "Shoe 307",
+    "category": "Shoes",
+    "price": 122,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 308,
+    "name": "Bag 308",
+    "category": "Bags",
+    "price": 159,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 309,
+    "name": "Hat 309",
+    "category": "Hats",
+    "price": 196,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 310,
+    "name": "Shirt 310",
+    "category": "Shirts",
+    "price": 43,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 311,
+    "name": "Watche 311",
+    "category": "Watches",
+    "price": 80,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 312,
+    "name": "Jacket 312",
+    "category": "Jackets",
+    "price": 117,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 313,
+    "name": "Shoe 313",
+    "category": "Shoes",
+    "price": 154,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 314,
+    "name": "Bag 314",
+    "category": "Bags",
+    "price": 191,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 315,
+    "name": "Hat 315",
+    "category": "Hats",
+    "price": 38,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 316,
+    "name": "Shirt 316",
+    "category": "Shirts",
+    "price": 75,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 317,
+    "name": "Watche 317",
+    "category": "Watches",
+    "price": 112,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 318,
+    "name": "Jacket 318",
+    "category": "Jackets",
+    "price": 149,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 319,
+    "name": "Shoe 319",
+    "category": "Shoes",
+    "price": 186,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 320,
+    "name": "Bag 320",
+    "category": "Bags",
+    "price": 33,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 321,
+    "name": "Hat 321",
+    "category": "Hats",
+    "price": 70,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 322,
+    "name": "Shirt 322",
+    "category": "Shirts",
+    "price": 107,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 323,
+    "name": "Watche 323",
+    "category": "Watches",
+    "price": 144,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 324,
+    "name": "Jacket 324",
+    "category": "Jackets",
+    "price": 181,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 325,
+    "name": "Shoe 325",
+    "category": "Shoes",
+    "price": 28,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 326,
+    "name": "Bag 326",
+    "category": "Bags",
+    "price": 65,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 327,
+    "name": "Hat 327",
+    "category": "Hats",
+    "price": 102,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 328,
+    "name": "Shirt 328",
+    "category": "Shirts",
+    "price": 139,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 329,
+    "name": "Watche 329",
+    "category": "Watches",
+    "price": 176,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 330,
+    "name": "Jacket 330",
+    "category": "Jackets",
+    "price": 23,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 331,
+    "name": "Shoe 331",
+    "category": "Shoes",
+    "price": 60,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 332,
+    "name": "Bag 332",
+    "category": "Bags",
+    "price": 97,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 333,
+    "name": "Hat 333",
+    "category": "Hats",
+    "price": 134,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 334,
+    "name": "Shirt 334",
+    "category": "Shirts",
+    "price": 171,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 335,
+    "name": "Watche 335",
+    "category": "Watches",
+    "price": 18,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 336,
+    "name": "Jacket 336",
+    "category": "Jackets",
+    "price": 55,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 337,
+    "name": "Shoe 337",
+    "category": "Shoes",
+    "price": 92,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 338,
+    "name": "Bag 338",
+    "category": "Bags",
+    "price": 129,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 339,
+    "name": "Hat 339",
+    "category": "Hats",
+    "price": 166,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 340,
+    "name": "Shirt 340",
+    "category": "Shirts",
+    "price": 13,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 341,
+    "name": "Watche 341",
+    "category": "Watches",
+    "price": 50,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 342,
+    "name": "Jacket 342",
+    "category": "Jackets",
+    "price": 87,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 343,
+    "name": "Shoe 343",
+    "category": "Shoes",
+    "price": 124,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 344,
+    "name": "Bag 344",
+    "category": "Bags",
+    "price": 161,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 345,
+    "name": "Hat 345",
+    "category": "Hats",
+    "price": 198,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 346,
+    "name": "Shirt 346",
+    "category": "Shirts",
+    "price": 45,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 347,
+    "name": "Watche 347",
+    "category": "Watches",
+    "price": 82,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 348,
+    "name": "Jacket 348",
+    "category": "Jackets",
+    "price": 119,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 349,
+    "name": "Shoe 349",
+    "category": "Shoes",
+    "price": 156,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 350,
+    "name": "Bag 350",
+    "category": "Bags",
+    "price": 193,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 351,
+    "name": "Hat 351",
+    "category": "Hats",
+    "price": 40,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 352,
+    "name": "Shirt 352",
+    "category": "Shirts",
+    "price": 77,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 353,
+    "name": "Watche 353",
+    "category": "Watches",
+    "price": 114,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 354,
+    "name": "Jacket 354",
+    "category": "Jackets",
+    "price": 151,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 355,
+    "name": "Shoe 355",
+    "category": "Shoes",
+    "price": 188,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 356,
+    "name": "Bag 356",
+    "category": "Bags",
+    "price": 35,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 357,
+    "name": "Hat 357",
+    "category": "Hats",
+    "price": 72,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 358,
+    "name": "Shirt 358",
+    "category": "Shirts",
+    "price": 109,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 359,
+    "name": "Watche 359",
+    "category": "Watches",
+    "price": 146,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 360,
+    "name": "Jacket 360",
+    "category": "Jackets",
+    "price": 183,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 361,
+    "name": "Shoe 361",
+    "category": "Shoes",
+    "price": 30,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 362,
+    "name": "Bag 362",
+    "category": "Bags",
+    "price": 67,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 363,
+    "name": "Hat 363",
+    "category": "Hats",
+    "price": 104,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 364,
+    "name": "Shirt 364",
+    "category": "Shirts",
+    "price": 141,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 365,
+    "name": "Watche 365",
+    "category": "Watches",
+    "price": 178,
+    "inStock": false,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 366,
+    "name": "Jacket 366",
+    "category": "Jackets",
+    "price": 25,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 367,
+    "name": "Shoe 367",
+    "category": "Shoes",
+    "price": 62,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 368,
+    "name": "Bag 368",
+    "category": "Bags",
+    "price": 99,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 369,
+    "name": "Hat 369",
+    "category": "Hats",
+    "price": 136,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 370,
+    "name": "Shirt 370",
+    "category": "Shirts",
+    "price": 173,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 371,
+    "name": "Watche 371",
+    "category": "Watches",
+    "price": 20,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 372,
+    "name": "Jacket 372",
+    "category": "Jackets",
+    "price": 57,
+    "inStock": false,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 373,
+    "name": "Shoe 373",
+    "category": "Shoes",
+    "price": 94,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 374,
+    "name": "Bag 374",
+    "category": "Bags",
+    "price": 131,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 375,
+    "name": "Hat 375",
+    "category": "Hats",
+    "price": 168,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 376,
+    "name": "Shirt 376",
+    "category": "Shirts",
+    "price": 15,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 377,
+    "name": "Watche 377",
+    "category": "Watches",
+    "price": 52,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 378,
+    "name": "Jacket 378",
+    "category": "Jackets",
+    "price": 89,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 379,
+    "name": "Shoe 379",
+    "category": "Shoes",
+    "price": 126,
+    "inStock": false,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 380,
+    "name": "Bag 380",
+    "category": "Bags",
+    "price": 163,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 381,
+    "name": "Hat 381",
+    "category": "Hats",
+    "price": 10,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 382,
+    "name": "Shirt 382",
+    "category": "Shirts",
+    "price": 47,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 383,
+    "name": "Watche 383",
+    "category": "Watches",
+    "price": 84,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 384,
+    "name": "Jacket 384",
+    "category": "Jackets",
+    "price": 121,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 385,
+    "name": "Shoe 385",
+    "category": "Shoes",
+    "price": 158,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 386,
+    "name": "Bag 386",
+    "category": "Bags",
+    "price": 195,
+    "inStock": false,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 387,
+    "name": "Hat 387",
+    "category": "Hats",
+    "price": 42,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 388,
+    "name": "Shirt 388",
+    "category": "Shirts",
+    "price": 79,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 389,
+    "name": "Watche 389",
+    "category": "Watches",
+    "price": 116,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 390,
+    "name": "Jacket 390",
+    "category": "Jackets",
+    "price": 153,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 391,
+    "name": "Shoe 391",
+    "category": "Shoes",
+    "price": 190,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 392,
+    "name": "Bag 392",
+    "category": "Bags",
+    "price": 37,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 393,
+    "name": "Hat 393",
+    "category": "Hats",
+    "price": 74,
+    "inStock": false,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 394,
+    "name": "Shirt 394",
+    "category": "Shirts",
+    "price": 111,
+    "inStock": true,
+    "description": "A sample shirt for the demo catalog."
+  },
+  {
+    "id": 395,
+    "name": "Watche 395",
+    "category": "Watches",
+    "price": 148,
+    "inStock": true,
+    "description": "A sample watche for the demo catalog."
+  },
+  {
+    "id": 396,
+    "name": "Jacket 396",
+    "category": "Jackets",
+    "price": 185,
+    "inStock": true,
+    "description": "A sample jacket for the demo catalog."
+  },
+  {
+    "id": 397,
+    "name": "Shoe 397",
+    "category": "Shoes",
+    "price": 32,
+    "inStock": true,
+    "description": "A sample shoe for the demo catalog."
+  },
+  {
+    "id": 398,
+    "name": "Bag 398",
+    "category": "Bags",
+    "price": 69,
+    "inStock": true,
+    "description": "A sample bag for the demo catalog."
+  },
+  {
+    "id": 399,
+    "name": "Hat 399",
+    "category": "Hats",
+    "price": 106,
+    "inStock": true,
+    "description": "A sample hat for the demo catalog."
+  },
+  {
+    "id": 400,
+    "name": "Shirt 400",
+    "category": "Shirts",
+    "price": 143,
+    "inStock": false,
+    "description": "A sample shirt for the demo catalog."
+  }
+]
