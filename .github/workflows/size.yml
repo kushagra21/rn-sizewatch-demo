@@ -17,4 +17,4 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - uses: kushagra21/rn-sizewatch@main
+      - uses: kushagra21/rn-sizewatch@v0
