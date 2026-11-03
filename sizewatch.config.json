@@ -1,0 +1,6 @@
+{
+  "budgets": {
+    "hermes": "2 MB",
+    "increase": "100 KB"
+  }
+}
