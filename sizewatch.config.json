@@ -1,6 +1,6 @@
 {
   "budgets": {
     "hermes": "2 MB",
-    "increase": "100 KB"
+    "increase": "50 KB"
   }
 }
